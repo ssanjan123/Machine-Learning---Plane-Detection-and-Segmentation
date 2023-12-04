@@ -4,7 +4,7 @@
 
 
 
-Please read the report on the full project
+Please read the report on the full project - https://github.com/ssanjan123/Machine-Learning---Plane-Detection-and-Segmentation/blob/main/ML_PLANES_Report.pdf
 
 Code is in Private repo and is not public due to SFU Policy.
 Please email at ssanjan@sfu.ca for details on code and the project.
