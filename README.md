@@ -5,3 +5,6 @@
 
 
 Please read the report on the full project
+
+Code is in Private repo and is not public due to SFU Policy.
+Please email at ssanjan@sfu.ca for details on code and the project.
